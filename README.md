@@ -22,8 +22,8 @@
 ---
 
 ### My GitHub Starts
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolenseu" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lolenseu&show_icons=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolenseu" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=lolenseu&show_icons=true" />
 
 ---
 
