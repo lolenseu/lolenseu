@@ -1,6 +1,6 @@
 # Hi there, I'm Mark Lawrence Cortez - aka [lolenseu][github] 👋
 
-<br />
+<br>
 
 ## I'm Curently Learing on how to Code/Programing!
 - 🌱 I’m currently learning everything 📖
