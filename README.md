@@ -17,13 +17,13 @@
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/ios-glyphs/344/github.png" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="26px" src="https://img.icons8.com/plasticine/344/bash.png" style="padding-right:10px;" />
 
-<br />
+<br>
 
 ---
 
 ### My GitHub Starts
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolenseu" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=lolenseu&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolenseu" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lolenseu&show_icons=true" />
 
 ---
 
