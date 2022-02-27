@@ -1,11 +1,11 @@
-# Hi there, I'm Mark Lawrence Cortez - aka [lolenseu][github]
+# Hi there, I'm Mark Lawrence Cortez - aka [lolenseu][github] 👋
 
 <br />
 
 ## I'm Curently Learing on how to Code/Programing!
-- 🌱 I’m currently learning everything 
-- 🥅 2022 Goals: Learn more about Python
-- ⚡ Fun fact: I love listening Lo-Fi Music
+- 🌱 I’m currently learning everything 📖
+- 🥅 2022 Goals: Learn more about Python 🐍
+- ⚡ Fun fact: I love listening Lo-Fi Music 🎧
 
 ### Languages and Tools:
 <!--Icon used https://img.icons8.com/-->
