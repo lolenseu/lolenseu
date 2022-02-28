@@ -3,6 +3,7 @@
 <br>
 
 ## I'm Curently Learing on how to Code/Programing!
+- 💻 I’m currently working on Visual Studio Code <img align="center" alt="Visual Studio Code" width="20px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" style="padding-right:10px;" />
 - 🌱 I’m currently learning everything 📖
 - 🥅 2022 Goals: Learn more about Python 🐍
 - ⚡ Fun fact: I love listening Lo-Fi Music 🎧
