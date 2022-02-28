@@ -15,6 +15,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/344/html-5.png" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/344/css3.png" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/344/javascript--v1.png" style="padding-right:10px;" />
+<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/344/typescript.png" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/ios-glyphs/344/github.png" style="padding-right:10px;" />
 <img align="left" alt="Bash" width="26px" src="https://img.icons8.com/plasticine/344/bash.png" style="padding-right:10px;" />
 
