@@ -1,6 +1,7 @@
 # ʕ•́ᴥ•̀ʔっ Hi there, I'm Mark Lawrence Cortez - aka [lolenseu][github] <img width="30px" src="https://cdn-icons-png.flaticon.com/128/6141/6141944.png">
+
 <div align="center">
-  <img class="sub-avatar-gif" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300">
+  <img class="sub-avatar-gif" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400">
 </div>
 
 ## <img width="30px" src="https://cdn-icons-png.flaticon.com/128/1693/1693834.png"> I'm Currently Learing on how to Code/Programing!
