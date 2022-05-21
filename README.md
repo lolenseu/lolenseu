@@ -10,13 +10,13 @@
 - 🌱 I’m currently learning everything 📖
 
 <details>
-  <summary>:🥅 2022 Goals:</summary>
+  <summary>🥅 2022 Goals:</summary>
 - Learn more about Python 🐍
 - Build some Scripts 📝
 </details>
 
 <details>
-<summary>:⚡ Fun fact:</summary>
+<summary>⚡ Fun fact:</summary>
 - I love listening Lo-Fi Music 🎧
 - Watching Marvel Movies 📺
 </details>
