@@ -11,14 +11,14 @@
 
 <details>
   <summary>🥅 2022 Goals:</summary>
-- Learn more about Python 🐍
-- Build some Scripts 📝
+* Learn more about Python 🐍
+* Build some Scripts 📝
 </details>
 
 <details>
 <summary>⚡ Fun fact:</summary>
-- I love listening Lo-Fi Music 🎧
-- Watching Marvel Movies 📺
+* I love listening Lo-Fi Music 🎧
+* Watching Marvel Movies 📺
 </details>
 
 ## <img width="30px" src="https://cdn-icons-png.flaticon.com/128/2666/2666823.png"> Languages and Tools:
