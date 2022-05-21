@@ -10,15 +10,15 @@
 - 🌱 I’m currently learning everything 📖
 
 <details>
-  <summary>:zap:🥅 2022 Goals:</summary>
-1. Learn more about Python 🐍
-2. Build some Scripts 📝
+  <summary>:🥅 2022 Goals:</summary>
+- Learn more about Python 🐍
+- Build some Scripts 📝
 </details>
 
 <details>
-<summary>:zap:⚡ Fun fact:</summary>
-1. I love listening Lo-Fi Music 🎧
-2. Watching Marvel Movies 📺
+<summary>:⚡ Fun fact:</summary>
+- I love listening Lo-Fi Music 🎧
+- Watching Marvel Movies 📺
 </details>
 
 ## <img width="30px" src="https://cdn-icons-png.flaticon.com/128/2666/2666823.png"> Languages and Tools:
