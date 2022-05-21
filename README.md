@@ -5,28 +5,21 @@
 </div>
 
 ## <img width="30px" src="https://cdn-icons-png.flaticon.com/128/1693/1693834.png"> I'm Currently Learing on how to Code/Programing!
-<<<<<<< HEAD
 <!--src emoji used "https://coolsymbol.com/" -->
 - 💻 I’m currently working on VSCode <img align="center" alt="Visual Studio Code" width="25px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" style="padding-right:10px;" />
 - 🌱 I’m currently learning everything 📖
 
 <details>
   <summary>:zap:🥅 2022 Goals:</summary>
-* Learn more about Python 🐍
-* Build some Scripts 📝
+1. Learn more about Python 🐍
+2. Build some Scripts 📝
 </details>
 
 <details>
 <summary>:zap:⚡ Fun fact:</summary>
-* I love listening Lo-Fi Music 🎧
-* Watching Marvel Movies 📺
+1. I love listening Lo-Fi Music 🎧
+2. Watching Marvel Movies 📺
 </details>
-=======
-- 💻 I’m currently working on VSCode <img align="center" alt="Visual Studio Code" width="25px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" style="padding-right:10px;" />
-- 🌱 I’m currently learning everything 📖
-- 🥅 2022 Goals: Learn more about Python 🐍
-- ⚡ Fun fact: I love listening Lo-Fi Music 🎧
->>>>>>> 9ff41046ddad1f0d86d4e2daece88fc25c7d995a
 
 ## <img width="30px" src="https://cdn-icons-png.flaticon.com/128/2666/2666823.png"> Languages and Tools:
 <!--src icon used "https://img.icons8.com/"-->
