@@ -10,9 +10,10 @@
 - 🌱 I’m currently learning everything 📖
 
 <details>
-  <summary>🥅 2022 Goals:</summary>
+  <summary>🥅 2023 Goals:</summary>
 
 * Learn more about Python 🐍
+* Learn more about Arduino 
 * Build some Scripts 📝
 
 </details>
