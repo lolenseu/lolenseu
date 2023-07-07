@@ -63,9 +63,15 @@
 
 ## <img width="30px" src="https://cdn-icons-png.flaticon.com/128/3163/3163689.png"> My GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolenseu&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25">
-<img src="https://github-readme-stats.vercel.app/api?username=lolenseu&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=lolenseu&theme=dark&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolenseu&layout=compact&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25">
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lolenseu&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25">
+</div>
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=lolenseu&theme=dark&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25">
+</div>
 
 <!--links-->
 [github]: https://github.com/lolenseu/
