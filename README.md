@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything 📖
 
 <details>
-  <summary>🥅 2023 Goals:</summary>
+  <summary>🥅 2024 Goals:</summary>
 
 * Learn more about Python 🐍
 * Learn more about Arduino 
@@ -31,18 +31,13 @@
 
 #### Language (Programing Language):
 <img align="left" alt="Python3" width="26px" src="https://img.icons8.com/color/344/python--v1.png" style="padding-right:10px;">
-<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/344/html-5.png" style="padding-right:10px;">
-<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/344/css3.png" style="padding-right:10px;">
-<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/344/javascript--v1.png" style="padding-right:10px;">
-<img align="left" alt="TypeScript" width="26px" src="https://img.icons8.com/color/344/typescript.png" style="padding-right:10px;">
+<img align="left" alt="Arduino" width="26px" src="https://icons8.com/icon/13444/arduino" style="padding-right:10px;">
 <img align="left" alt="Bash" width="26px" src="https://img.icons8.com/plasticine/344/bash.png" style="padding-right:10px;">
 
 <br>
 
 #### IDE (Integrated Development Environment):
 <img align="left" alt="Visual-Studio-Code" width="26px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" style="padding-right:10px;">
-<img align="left" alt="Atom" width="26px" src="https://img.icons8.com/color/344/atom-editor.png" style="padding-right:10px;">
-<img align="left" alt="PyCharm" width="26px" src="https://img.icons8.com/color/344/pycharm.png" style="padding-right:10px;">
 <img align="left" alt="Jupyter-Notebook" width="26px" src="https://img.icons8.com/fluency/344/jupyter.png" style="padding-right:10px;">
 
 <br>
@@ -57,7 +52,6 @@
 <img align="left" alt="Linux" width="22px" src="https://img.icons8.com/color/344/linux.png" style="padding-right:10px;">
 <img align="left" alt="Ubuntu" width="22px" src="https://img.icons8.com/color/344/ubuntu--v1.png" style="padding-right:10px;">
 <img align="left" alt="Kali" width="22px" src="https://img.icons8.com/color/344/kali-linux.png" style="padding-right:10px;">
-<img align="left" alt="Microsoft" width="22px" src="https://img.icons8.com/color/344/microsoft.png" style="padding-right:10px;">
 
 <br>
 
