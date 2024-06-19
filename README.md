@@ -13,7 +13,6 @@
   <summary>🥅 2024 Goals:</summary>
 
 * Learn more about Python 🐍
-* Learn more about Arduino 
 * Build some Scripts 📝
 
 </details>
@@ -31,7 +30,6 @@
 
 #### Language (Programing Language):
 <img align="left" alt="Python3" width="26px" src="https://img.icons8.com/color/344/python--v1.png" style="padding-right:10px;">
-<img align="left" alt="Arduino" width="26px" src="https://icons8.com/icon/13444/arduino" style="padding-right:10px;">
 <img align="left" alt="Bash" width="26px" src="https://img.icons8.com/plasticine/344/bash.png" style="padding-right:10px;">
 
 <br>
