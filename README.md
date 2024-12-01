@@ -1,5 +1,5 @@
 # ʕ•́ᴥ•̀ʔっ Hi there, I'm Mark Lawrence Cortez - aka [lolenseu][github] <img width="30px" src="https://cdn-icons-png.flaticon.com/128/6141/6141944.png">
-<img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<div align="center"><img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/></div>
 
 ## <img width="42px" src="https://cdn-icons-png.flaticon.com/128/1693/1693834.png"> I'm Currently Learing on how to Code/Programing!
 - 💻 I’m currently working on VSCode <img align="center" alt="Visual Studio Code" width="25px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" style="padding-right:10px;" />
@@ -40,11 +40,9 @@
 <br>
 
 ## <img width="42px" src="https://cdn-icons-png.flaticon.com/128/3163/3163689.png"> My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lolenseu">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=lolenseu">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolenseu&layout=compact">
-</div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolenseu&layout=compact"></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lolenseu"></div>
+<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=lolenseu"></div>
 
 <!--links-->
 [github]: https://github.com/lolenseu/
