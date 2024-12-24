@@ -43,17 +43,42 @@ jobs:
 
       # Display the current state of the repository
       - name: Display build status
-        run: git status
+        run: |
+          git status
+          git remote -v
 
-      # Push generated snake files to the output branch
-      - name: Deploy snake animations
+      # Set Git user configuration for the commit
+      - name: Configure Git user
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+      # Check if the output branch exists, create it if necessary
+      - name: Create output branch if not exists
+        run: |
+          git fetch origin
+          git checkout --orphan output || git checkout output
+
+      # Add and commit new files if changes exist
+      - name: Commit changes
+        run: |
+          git add -A
+          git commit -m "chore: Update snake animations" || echo "Nothing to commit"
+
+      # Push the changes to the output branch
+      - name: Push to output branch
+        run: |
+          git push --force origin output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Deploy snake animations to GitHub Pages
+      - name: Deploy snake animations to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          # Specify the target branch for output files
           target_branch: output
-          # Define the directory containing the built files
           build_dir: dist
-          # Customize the commit message
           commit_message: "chore: Update snake animations"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
