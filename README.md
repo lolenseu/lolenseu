@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Python, Flask Framework, Machine Learning,** and **AI**
 
-⚡ Fun fact **I Love Listening to LoFi Music**
+⚡ Fun fact **I Love Listening LoFi Music**
 
  </div>
  <div align="center"> 
@@ -30,7 +30,7 @@
   </a>
 </div>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ OS-Tools-Languages-Frameworks ⚒️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,debian,raspberrypi" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,arduino,github,git,githubactions,docker" /><br>
