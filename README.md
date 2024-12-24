@@ -1,48 +1,62 @@
-# ʕ•́ᴥ•̀ʔっ Hi there, I'm Mark Lawrence Cortez - aka [lolenseu][github] <img width="30px" src="https://cdn-icons-png.flaticon.com/128/6141/6141944.png">
-<div align="center"><img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif"/></div>
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Flolenseu%2Flolenseu&label=visitors&countColor=%2300aaff" />
 
-## <img width="42px" src="https://cdn-icons-png.flaticon.com/128/1693/1693834.png"> I'm Currently Learing on how to Code/Programing!
-- 💻 I’m currently working on VSCode <img align="center" alt="Visual Studio Code" width="25px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" style="padding-right:10px;" />
-- 🌱 I’m currently learning everything 📖
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mark+Lawrence+Cortez;+Aka+lolenseu;" />
+</div>
 
-<details>
-<summary>🥅 2024 Goals:</summary>
-* Learn more about Python 🐍
-* Build some Scripts 📝
-</details>
-
-<details>
-<summary>⚡ Fun fact:</summary>
-* I love listening Lo-Fi Music 🎧
-* Watching Marvel Movies 📺
-</details>
-
-## <img width="42px" src="https://cdn-icons-png.flaticon.com/128/2666/2666823.png"> Languages and Tools:
-#### Language (Programing Language):
-<img align="left" alt="Python3" width="32px" src="https://img.icons8.com/color/344/python--v1.png" style="padding-right:10px;">
-<img align="left" alt="Bash" width="32px" src="https://img.icons8.com/plasticine/344/bash.png" style="padding-right:10px;">
+<h3 align="center">A Passionate Software Engineer from Philippines 🇵🇭 </h3>
 <br>
 
-#### IDE (Integrated Development Environment):
-<img align="left" alt="Visual-Studio-Code" width="32px" src="https://img.icons8.com/color/344/visual-studio-code-2019.png" style="padding-right:10px;">
-<img align="left" alt="Jupyter-Notebook" width="32px" src="https://img.icons8.com/fluency/344/jupyter.png" style="padding-right:10px;">
+<div align="center">
+  
+ 📚 I’m currently studying at **UIP**
+ 
+ 👩🏻‍💻 I'm also a self-paced learner on **Udemy**
+ 
+ 🌱 I’m currently learning **Python, Flask Framework, Machine Learning,** and **AI**
+
+⚡ Fun fact **I Love Listening to LoFi Music**
+
+ </div>
+
+ <div align="center"> 
+  <a href="mailto:lolenseu.koleutejeu248@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/mark-lawrence-cortez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://lolenseu.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 <br>
 
-#### Git (Repository):
-<img align="left" alt="GitHub" width="32px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;">
-<img align="left" alt="Git" width="32px" src="https://img.icons8.com/color/344/git.png" style="padding-right:10px;">
+<hr/> 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,debian,raspberrypi" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,arduino,github,git,githubactions,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=python,cpp,bash,html,css,javascript" /><br>
+    <img src="https://skillicons.dev/icons?i=flask,opencv,tensorflow,pytorch,django" /><br>
+</div>
+<br/>
+
+<hr/>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lolenseu/lolenseu/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<h2 align="center">🔥 Stats 🔥</h2>
 <br>
-
-#### OS (Operating System):
-<img align="left" alt="Linux" width="32px" src="https://img.icons8.com/color/344/linux.png" style="padding-right:10px;">
-<img align="left" alt="Ubuntu" width="32px" src="https://img.icons8.com/color/344/ubuntu--v1.png" style="padding-right:10px;">
-<img align="left" alt="Kali" width="32px" src="https://img.icons8.com/color/344/kali-linux.png" style="padding-right:10px;">
-<br>
-
-## <img width="42px" src="https://cdn-icons-png.flaticon.com/128/3163/3163689.png"> My GitHub Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolenseu&layout=compact"></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=lolenseu"></div>
-<div align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=lolenseu"></div>
-
-<!--links-->
-[github]: https://github.com/lolenseu/
+<div align=center>
+  <img width=390 src="https://github-readme-streak-stats-lolenseu.vercel.app/?user=lolenseu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-lolenseu.vercel.app/api?username=lolenseu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats-lolenseu.vercel.app/api/top-langs/?username=lolenseu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
