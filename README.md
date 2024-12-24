@@ -18,7 +18,6 @@
 ⚡ Fun fact **I Love Listening to LoFi Music**
 
  </div>
-
  <div align="center"> 
   <a href="mailto:lolenseu.koleutejeu248@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -27,33 +26,26 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://lolenseu.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
-<br>
 
-<hr/> 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,kali,debian,raspberrypi" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,arduino,github,git,githubactions,docker" /><br>
     <img src="https://skillicons.dev/icons?i=python,cpp,bash,html,css,javascript" /><br>
     <img src="https://skillicons.dev/icons?i=flask,opencv,tensorflow,pytorch,django" /><br>
 </div>
-<br/>
 
-<hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
-  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lolenseu/lolenseu/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
 <h2 align="center">🔥 Stats 🔥</h2>
-<br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-lolenseu.vercel.app/?user=lolenseu&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-lolenseu.vercel.app/api?username=lolenseu&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
